@@ -4,4 +4,4 @@ Data is fetched from a JSON file and earthquakes can be filtered by magnitude or
 
 
 To see the map just serve the folder or go here  
-https://jangling-sterilizer.000webhostapp.com/
+https://lajerca.github.io/earthquakes_map/
