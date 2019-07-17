@@ -1,4 +1,8 @@
+## Earthquakes map
+
 Simple map to test leaflet capabilities for data visualization
+
+![app screenshot](/screenshot.png)
 
 Data is fetched from a JSON file and earthquakes can be filtered by magnitude or by name.
 
